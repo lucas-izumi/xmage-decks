@@ -1,0 +1,44 @@
+1 [RTR:141] Abrupt Decay
+1 [THB:208] Ashiok, Nightmare Muse
+4 [KLD:243] Blooming Marsh
+4 [RNA:246] Breeding Pool
+1 [ELD:188] Drown in the Loch
+1 [EMN:6] Emrakul, the Promised End
+1 [ELD:244] Fabled Passage
+2 [AER:57] Fatal Push
+2 [THB:254] Forest
+1 [M15:210] Garruk, Apex Predator
+1 [EMN:184] Grim Flayer
+4 [RTR:165] Grisly Salvage
+1 [HOU:180] Ipnu Rivulet
+1 [EMN:162] Ishkanah, Grafwidow
+2 [THB:251] Island
+2 [ORI:60] Jace, Vryn's Prodigy
+1 [WAR:97] Liliana, Dreadhorde General
+1 [BFZ:239] Lumbering Falls
+1 [ELD:287] Murderous Rider
+1 [WAR:169] Nissa, Who Shakes the World
+4 [GRN:253] Overgrown Tomb
+1 [ELD:171] Questing Beast
+4 [M15:198] Satyr Wayfinder
+2 [M14:195] Scavenging Ooze
+1 [KLD:231] Scrapheap Scrounger
+1 [THB:252] Swamp
+4 [THS:107] Thoughtseize
+3 [SOI:234] Traverse the Ulvenwald
+4 [THB:229] Uro, Titan of Nature's Wrath
+1 [GRN:213] Vraska, Golgari Queen
+2 [GRN:259] Watery Grave
+SB: 2 [WAR:228] Ashiok, Dream Render
+SB: 2 [RTR:213] Deathrite Shaman
+SB: 1 [AER:57] Fatal Push
+SB: 1 [RTR:164] Golgari Charm
+SB: 1 [WAR:99] Massacre Girl
+SB: 1 [ELD:287] Murderous Rider
+SB: 1 [M19:196] Reclamation Sage
+SB: 1 [M20:194] Shifting Ceratops
+SB: 1 [KTK:204] Sultai Charm
+SB: 2 [GRN:212] Unmoored Ego
+SB: 2 [ELD:111] Witch's Vengeance
+LAYOUT MAIN:(1,1)(NONE,false,50)|([RTR:141],[THB:208],[KLD:243],[KLD:243],[KLD:243],[KLD:243],[RNA:246],[RNA:246],[RNA:246],[RNA:246],[ELD:188],[EMN:6],[ELD:244],[AER:57],[AER:57],[THB:254],[THB:254],[M15:210],[EMN:184],[RTR:165],[RTR:165],[RTR:165],[RTR:165],[HOU:180],[EMN:162],[THB:251],[THB:251],[ORI:60],[ORI:60],[WAR:97],[BFZ:239],[ELD:287],[WAR:169],[GRN:253],[GRN:253],[GRN:253],[GRN:253],[ELD:171],[M15:198],[M15:198],[M15:198],[M15:198],[M14:195],[M14:195],[KLD:231],[THB:252],[THS:107],[THS:107],[THS:107],[THS:107],[SOI:234],[SOI:234],[SOI:234],[THB:229],[THB:229],[THB:229],[THB:229],[GRN:213],[GRN:259],[GRN:259])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WAR:228],[WAR:228],[RTR:213],[RTR:213],[AER:57],[RTR:164],[WAR:99],[ELD:287],[M19:196],[M20:194],[KTK:204],[GRN:212],[GRN:212],[ELD:111],[ELD:111])

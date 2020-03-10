@@ -1,0 +1,25 @@
+4 [ELD:2] All That Glitters
+4 [THB:1] Alseid of Life's Bounty
+3 [THB:311] Aphemia, the Cacophony
+4 [AKH:7] Cartouche of Solidarity
+4 [ORI:245] Caves of Koilos
+4 [KLD:245] Concealed Courtyard
+2 [RTR:214] Dryad Militant
+4 [RTR:9] Ethereal Armor
+4 [RNA:248] Godless Shrine
+4 [SOI:20] Gryff's Boon
+4 [THB:101] Hateful Eidolon
+4 [THB:26] Karametra's Blessing
+6 [THB:250] Plains
+4 [THB:36] Sentinel's Eyes
+4 [AER:23] Sram, Senior Edificer
+1 [THB:252] Swamp
+SB: 3 [M20:6] Apostle of Purifying Light
+SB: 2 [DOM:213] Damping Sphere
+SB: 3 [GRN:67] Dead Weight
+SB: 2 [AKH:14] Gideon of the Trials
+SB: 2 [M20:227] Grafdigger's Cage
+SB: 1 [ELD:18] Hushbringer
+SB: 2 [WAR:34] Tomik, Distinguished Advokist
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ELD:2],[ELD:2],[ELD:2],[ELD:2],[THB:1],[THB:1],[THB:1],[THB:1],[THB:311],[THB:311],[THB:311],[AKH:7],[AKH:7],[AKH:7],[AKH:7],[ORI:245],[ORI:245],[ORI:245],[ORI:245],[KLD:245],[KLD:245],[KLD:245],[KLD:245],[RTR:214],[RTR:214],[RTR:9],[RTR:9],[RTR:9],[RTR:9],[RNA:248],[RNA:248],[RNA:248],[RNA:248],[SOI:20],[SOI:20],[SOI:20],[SOI:20],[THB:101],[THB:101],[THB:101],[THB:101],[THB:26],[THB:26],[THB:26],[THB:26],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:36],[THB:36],[THB:36],[THB:36],[AER:23],[AER:23],[AER:23],[AER:23],[THB:252])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M20:6],[M20:6],[M20:6],[DOM:213],[DOM:213],[GRN:67],[GRN:67],[GRN:67],[AKH:14],[AKH:14],[M20:227],[M20:227],[ELD:18],[WAR:34],[WAR:34])

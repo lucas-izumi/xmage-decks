@@ -1,0 +1,27 @@
+4 [ORI:244] Battlefield Forge
+4 [GTC:148] Boros Charm
+2 [DOM:239] Clifftop Retreat
+4 [WAR:9] Defiant Strike
+3 [WAR:125] Dreadhorde Arcanist
+1 [THB:132] Escape Velocity
+4 [THS:13] Favored Hoplite
+4 [WAR:197] Feather, the Redeemed
+4 [M20:19] Gods Willing
+4 [KLD:246] Inspiring Vantage
+2 [AER:86] Invigorated Rampage
+4 [KTK:118] Monastery Swiftspear
+2 [THB:253] Mountain
+3 [THB:250] Plains
+4 [RIX:110] Reckless Rage
+4 [GRN:254] Sacred Foundry
+4 [WAR:222] Tenth District Legionnaire
+3 [ORI:166] Titan's Strength
+SB: 2 [ORI:145] Fiery Impulse
+SB: 2 [M20:140] Fry
+SB: 2 [M15:145] Goblin Rabblemaster
+SB: 2 [AER:88] Kari Zev's Expertise
+SB: 2 [RTR:18] Rest in Peace
+SB: 2 [RTR:26] Swift Justice
+SB: 3 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ORI:244],[ORI:244],[ORI:244],[ORI:244],[GTC:148],[GTC:148],[GTC:148],[GTC:148],[DOM:239],[DOM:239],[WAR:9],[WAR:9],[WAR:9],[WAR:9],[WAR:125],[WAR:125],[WAR:125],[THB:132],[THS:13],[THS:13],[THS:13],[THS:13],[WAR:197],[WAR:197],[WAR:197],[WAR:197],[M20:19],[M20:19],[M20:19],[M20:19],[KLD:246],[KLD:246],[KLD:246],[KLD:246],[AER:86],[AER:86],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[THB:253],[THB:253],[THB:250],[THB:250],[THB:250],[RIX:110],[RIX:110],[RIX:110],[RIX:110],[GRN:254],[GRN:254],[GRN:254],[GRN:254],[WAR:222],[WAR:222],[WAR:222],[WAR:222],[ORI:166],[ORI:166],[ORI:166])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ORI:145],[ORI:145],[M20:140],[M20:140],[M15:145],[M15:145],[AER:88],[AER:88],[RTR:18],[RTR:18],[RTR:26],[RTR:26],[DGM:135],[DGM:135],[DGM:135])

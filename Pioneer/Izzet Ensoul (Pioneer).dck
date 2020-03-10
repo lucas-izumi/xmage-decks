@@ -1,0 +1,32 @@
+4 [KLD:199] Bomat Courier
+4 [M15:242] Darksteel Citadel
+2 [ELD:342] Emry, Lurker of the Loch
+4 [M15:54] Ensoul Artifact
+4 [KTK:220] Ghostfire Blade
+4 [ELD:219] Gingerbrute
+2 [ORI:229] Hangarback Walker
+1 [AER:154] Hope of Ghirapur
+1 [THB:251] Island
+4 [M14:228] Mutavault
+2 [ELD:58] Mystical Dispute
+2 [ORI:251] Shivan Reef
+4 [M15:161] Shrapnel Blast
+3 [M19:73] Skilled Animator
+3 [AER:184] Spire of Industry
+4 [KLD:249] Spirebluff Canal
+3 [GRN:257] Steam Vents
+4 [ELD:235] Stonecoil Serpent
+2 [KTK:56] Stubborn Denial
+1 [ELD:199] The Royal Scions
+2 [FRF:118] Wild Slash
+SB: 1 [M20:42] Aether Gust
+SB: 2 [AER:142] Aethersphere Harvester
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [XLN:53] Dive Down
+SB: 2 [DOM:1] Karn, Scion of Urza
+SB: 1 [GRN:108] Lava Coil
+SB: 2 [ELD:58] Mystical Dispute
+SB: 1 [DOM:42] The Antiquities War
+SB: 2 [M15:237] Tormod's Crypt
+LAYOUT MAIN:(1,1)(NONE,false,50)|([KLD:199],[KLD:199],[KLD:199],[KLD:199],[M15:242],[M15:242],[M15:242],[M15:242],[ELD:342],[ELD:342],[M15:54],[M15:54],[M15:54],[M15:54],[KTK:220],[KTK:220],[KTK:220],[KTK:220],[ELD:219],[ELD:219],[ELD:219],[ELD:219],[ORI:229],[ORI:229],[AER:154],[THB:251],[M14:228],[M14:228],[M14:228],[M14:228],[ELD:58],[ELD:58],[ORI:251],[ORI:251],[M15:161],[M15:161],[M15:161],[M15:161],[M19:73],[M19:73],[M19:73],[AER:184],[AER:184],[AER:184],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[GRN:257],[GRN:257],[GRN:257],[ELD:235],[ELD:235],[ELD:235],[ELD:235],[KTK:56],[KTK:56],[ELD:199],[FRF:118],[FRF:118])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M20:42],[AER:142],[AER:142],[DOM:213],[DOM:213],[XLN:53],[XLN:53],[DOM:1],[DOM:1],[GRN:108],[ELD:58],[ELD:58],[DOM:42],[M15:237],[M15:237])

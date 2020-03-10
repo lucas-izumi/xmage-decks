@@ -1,0 +1,30 @@
+4 [GTC:216] Burning-Tree Emissary
+2 [ELD:240] Castle Garenbrig
+4 [M15:173] Elvish Mystic
+16 [THB:254] Forest
+4 [RIX:136] Jadelight Ranger
+4 [WAR:1] Karn, the Great Creator
+4 [M19:314] Llanowar Elves
+4 [WAR:169] Nissa, Who Shakes the World
+4 [THS:223] Nykthos, Shrine to Nyx
+4 [M20:199] Vivien, Arkbow Ranger
+4 [M20:200] Voracious Hydra
+2 [AER:181] Walking Ballista
+4 [THB:205] Wolfwillow Haven
+SB: 1 [DOM:213] Damping Sphere
+SB: 1 [M15:242] Darksteel Citadel
+SB: 1 [EMN:6] Emrakul, the Promised End
+SB: 1 [WAR:238] God-Pharaoh's Statue
+SB: 1 [KLD:163] Nissa, Vital Force
+SB: 1 [M15:224] Perilous Vault
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [M14:195] Scavenging Ooze
+SB: 1 [THB:236] Shadowspear
+SB: 1 [KLD:234] Skysovereign, Consul Flagship
+SB: 1 [ELD:161] The Great Henge
+SB: 1 [M15:237] Tormod's Crypt
+SB: 1 [BFZ:15] Ulamog, the Ceaseless Hunger
+SB: 1 [KLD:172] Verdurous Gearhulk
+SB: 1 [AER:181] Walking Ballista
+LAYOUT MAIN:(1,1)(NONE,false,50)|([GTC:216],[GTC:216],[GTC:216],[GTC:216],[ELD:240],[ELD:240],[M15:173],[M15:173],[M15:173],[M15:173],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[RIX:136],[RIX:136],[RIX:136],[RIX:136],[WAR:1],[WAR:1],[WAR:1],[WAR:1],[M19:314],[M19:314],[M19:314],[M19:314],[WAR:169],[WAR:169],[WAR:169],[WAR:169],[THS:223],[THS:223],[THS:223],[THS:223],[M20:199],[M20:199],[M20:199],[M20:199],[M20:200],[M20:200],[M20:200],[M20:200],[AER:181],[AER:181],[THB:205],[THB:205],[THB:205],[THB:205])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DOM:213],[M15:242],[EMN:6],[WAR:238],[KLD:163],[M15:224],[RTR:231],[M14:195],[THB:236],[KLD:234],[ELD:161],[M15:237],[BFZ:15],[KLD:172],[AER:181])

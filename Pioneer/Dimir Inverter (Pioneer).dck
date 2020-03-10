@@ -1,0 +1,30 @@
+3 [SOI:270] Choked Estuary
+4 [KTK:36] Dig Through Time
+4 [XLN:253] Drowned Catacomb
+4 [ELD:244] Fabled Passage
+4 [AER:57] Fatal Push
+1 [AKH:243] Fetid Pools
+1 [THS:90] Hero's Downfall
+4 [OGW:72] Inverter of Truth
+6 [THB:251] Island
+4 [WAR:54] Jace, Wielder of Mysteries
+2 [ELD:58] Mystical Dispute
+2 [WAR:61] Narset, Parter of Veils
+4 [ELD:59] Opt
+3 [THB:252] Swamp
+3 [THB:308] Thassa's Oracle
+3 [GRN:206] Thought Erasure
+4 [THS:107] Thoughtseize
+4 [GRN:259] Watery Grave
+SB: 1 [DOM:81] Cast Down
+SB: 2 [DOM:213] Damping Sphere
+SB: 1 [M14:96] Doom Blade
+SB: 2 [THS:90] Hero's Downfall
+SB: 3 [ORI:60] Jace, Vryn's Prodigy
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 2 [M20:106] Legion's End
+SB: 1 [ELD:58] Mystical Dispute
+SB: 1 [WAR:61] Narset, Parter of Veils
+SB: 1 [THB:308] Thassa's Oracle
+LAYOUT MAIN:(1,1)(NONE,false,50)|([SOI:270],[SOI:270],[SOI:270],[KTK:36],[KTK:36],[KTK:36],[KTK:36],[XLN:253],[XLN:253],[XLN:253],[XLN:253],[ELD:244],[ELD:244],[ELD:244],[ELD:244],[AER:57],[AER:57],[AER:57],[AER:57],[AKH:243],[THS:90],[OGW:72],[OGW:72],[OGW:72],[OGW:72],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[WAR:54],[WAR:54],[WAR:54],[WAR:54],[ELD:58],[ELD:58],[WAR:61],[WAR:61],[ELD:59],[ELD:59],[ELD:59],[ELD:59],[THB:252],[THB:252],[THB:252],[THB:308],[THB:308],[THB:308],[GRN:206],[GRN:206],[GRN:206],[THS:107],[THS:107],[THS:107],[THS:107],[GRN:259],[GRN:259],[GRN:259],[GRN:259])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DOM:81],[DOM:213],[DOM:213],[M14:96],[THS:90],[THS:90],[ORI:60],[ORI:60],[ORI:60],[OGW:86],[M20:106],[M20:106],[ELD:58],[WAR:61],[THB:308])

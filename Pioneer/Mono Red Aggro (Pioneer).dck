@@ -1,0 +1,25 @@
+2 [RTR:86] Ash Zealot
+4 [ELD:115] Bonecrusher Giant
+2 [ELD:239] Castle Embereth
+1 [KLD:110] Chandra, Torch of Defiance
+3 [JOU:94] Eidolon of the Great Revel
+1 [ELD:120] Embercleave
+1 [AKH:134] Glorybringer
+4 [DOM:129] Goblin Chainwhirler
+1 [AER:87] Kari Zev, Skyship Raider
+4 [M19:152] Lightning Strike
+4 [KTK:118] Monastery Swiftspear
+17 [THB:253] Mountain
+1 [M14:228] Mutavault
+4 [HOU:181] Ramunap Ruins
+4 [AKH:148] Soul-Scar Mage
+3 [ELD:147] Torbran, Thane of Red Fell
+4 [FRF:118] Wild Slash
+SB: 1 [M19:128] Alpine Moon
+SB: 1 [HOU:86] Chandra's Defeat
+SB: 3 [M20:140] Fry
+SB: 3 [GRN:108] Lava Coil
+SB: 4 [ORI:160] Scab-Clan Berserker
+SB: 3 [M15:237] Tormod's Crypt
+LAYOUT MAIN:(1,1)(NONE,false,50)|([RTR:86],[RTR:86],[ELD:115],[ELD:115],[ELD:115],[ELD:115],[ELD:239],[ELD:239],[KLD:110],[JOU:94],[JOU:94],[JOU:94],[ELD:120],[AKH:134],[DOM:129],[DOM:129],[DOM:129],[DOM:129],[AER:87],[M19:152],[M19:152],[M19:152],[M19:152],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[M14:228],[HOU:181],[HOU:181],[HOU:181],[HOU:181],[AKH:148],[AKH:148],[AKH:148],[AKH:148],[ELD:147],[ELD:147],[ELD:147],[FRF:118],[FRF:118],[FRF:118],[FRF:118])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M19:128],[HOU:86],[M20:140],[M20:140],[M20:140],[GRN:108],[GRN:108],[GRN:108],[ORI:160],[ORI:160],[ORI:160],[ORI:160],[M15:237],[M15:237],[M15:237])

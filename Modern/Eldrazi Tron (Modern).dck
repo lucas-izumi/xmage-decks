@@ -1,0 +1,38 @@
+1 [ROE:1] All Is Dust
+2 [WAR:244] Blast Zone
+1 [AVR:226] Cavern of Souls
+4 [MRD:150] Chalice of the Void
+2 [NPH:57] Dismember
+4 [ROE:227] Eldrazi Temple
+4 [ZEN:201] Expedition Map
+1 [THB:254] Forest
+1 [ISD:240] Ghost Quarter
+4 [WAR:1] Karn, the Great Creator
+4 [OGW:6] Matter Reshaper
+4 [ELD:169] Once Upon a Time
+4 [OGW:7] Reality Smasher
+1 [HOU:182] Scavenger Grounds
+1 [WWK:145] Tectonic Edge
+4 [OGW:9] Thought-Knot Seer
+2 [WAR:2] Ugin, the Ineffable
+4 [9ED:327] Urza's Mine
+4 [9ED:328] Urza's Power Plant
+4 [9ED:329] Urza's Tower
+3 [AER:181] Walking Ballista
+1 [OGW:183a] Wastes
+SB: 1 [8ED:300] Ensnaring Bridge
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [SOM:171] Liquimetal Coating
+SB: 1 [M20:233] Mystic Forge
+SB: 1 [M14:215] Ratchet Bomb
+SB: 1 [KLD:234] Skysovereign, Consul Flagship
+SB: 1 [ELD:233] Sorcerous Spyglass
+SB: 2 [OGW:8] Spatial Contortion
+SB: 1 [DST:146] Sundering Titan
+SB: 1 [M15:237] Tormod's Crypt
+SB: 1 [NPH:162] Torpor Orb
+SB: 1 [AER:181] Walking Ballista
+SB: 1 [ISD:236] Witchbane Orb
+SB: 1 [SOM:223] Wurmcoil Engine
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ROE:1],[WAR:244],[WAR:244],[AVR:226],[MRD:150],[MRD:150],[MRD:150],[MRD:150],[NPH:57],[NPH:57],[ROE:227],[ROE:227],[ROE:227],[ROE:227],[ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201],[THB:254],[ISD:240],[WAR:1],[WAR:1],[WAR:1],[WAR:1],[OGW:6],[OGW:6],[OGW:6],[OGW:6],[ELD:169],[ELD:169],[ELD:169],[ELD:169],[OGW:7],[OGW:7],[OGW:7],[OGW:7],[HOU:182],[WWK:145],[OGW:9],[OGW:9],[OGW:9],[OGW:9],[WAR:2],[WAR:2],[9ED:327],[9ED:327],[9ED:327],[9ED:327],[9ED:328],[9ED:328],[9ED:328],[9ED:328],[9ED:329],[9ED:329],[9ED:329],[9ED:329],[AER:181],[AER:181],[AER:181],[OGW:183a])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([8ED:300],[M20:227],[SOM:171],[M20:233],[M14:215],[KLD:234],[ELD:233],[OGW:8],[OGW:8],[DST:146],[M15:237],[NPH:162],[AER:181],[ISD:236],[SOM:223])

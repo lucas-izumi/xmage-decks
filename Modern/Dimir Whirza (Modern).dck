@@ -1,0 +1,39 @@
+3 [MH1:40] Archmage's Charm
+4 [MH1:220] Arcum's Astrolabe
+2 [LRW:56] Cryptic Command
+1 [ROE:59] Deprive
+1 [ELD:188] Drown in the Loch
+3 [AER:57] Fatal Push
+3 [KTK:233] Flooded Strand
+2 [ROE:115] Inquisition of Kozilek
+1 [WWK:31] Jace, the Mind Sculptor
+4 [CSP:138] Mishra's Bauble
+2 [ZEN:220] Misty Rainforest
+3 [ELD:247] Mystic Sanctuary
+1 [SOM:187] Nihil Spellbomb
+1 [RTR:231] Pithing Needle
+4 [KTK:239] Polluted Delta
+2 [ZEN:223] Scalding Tarn
+6 [CSP:152] Snow-Covered Island
+1 [CSP:153] Snow-Covered Swamp
+1 [BFZ:249] Sunken Hollow
+1 [FUT:165] Sword of the Meek
+2 [MRD:253] Talisman of Dominance
+2 [ARB:133] Thopter Foundry
+2 [THS:107] Thoughtseize
+4 [MH1:75] Urza, Lord High Artificer
+1 [GRN:259] Watery Grave
+3 [AER:49] Whir of Invention
+SB: 2 [M20:42] Aether Gust
+SB: 2 [WAR:228] Ashiok, Dream Render
+SB: 2 [EMN:85] Collective Brutality
+SB: 1 [DOM:213] Damping Sphere
+SB: 1 [MH1:85] Dead of Winter
+SB: 1 [GRN:37] Disdainful Stroke
+SB: 1 [AER:57] Fatal Push
+SB: 1 [MBS:43] Go for the Throat
+SB: 1 [M20:227] Grafdigger's Cage
+SB: 1 [OGW:86] Kalitas, Traitor of Ghet
+SB: 2 [ELD:58] Mystical Dispute
+LAYOUT MAIN:(1,1)(NONE,false,50)|([MH1:40],[MH1:40],[MH1:40],[MH1:220],[MH1:220],[MH1:220],[MH1:220],[LRW:56],[LRW:56],[ROE:59],[ELD:188],[AER:57],[AER:57],[AER:57],[KTK:233],[KTK:233],[KTK:233],[ROE:115],[ROE:115],[WWK:31],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[ZEN:220],[ZEN:220],[ELD:247],[ELD:247],[ELD:247],[SOM:187],[RTR:231],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZEN:223],[ZEN:223],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:153],[BFZ:249],[FUT:165],[MRD:253],[MRD:253],[ARB:133],[ARB:133],[THS:107],[THS:107],[MH1:75],[MH1:75],[MH1:75],[MH1:75],[GRN:259],[AER:49],[AER:49],[AER:49])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M20:42],[M20:42],[WAR:228],[WAR:228],[EMN:85],[EMN:85],[DOM:213],[MH1:85],[GRN:37],[AER:57],[MBS:43],[M20:227],[OGW:86],[ELD:58],[ELD:58])

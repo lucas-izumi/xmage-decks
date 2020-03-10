@@ -1,0 +1,28 @@
+4 [DST:91] Aether Vial
+4 [CON:141] Ancient Ziggurat
+4 [AVR:226] Cavern of Souls
+4 [ISD:6] Champion of the Parish
+2 [RNA:165] Deputy of Detention
+4 [FUT:177] Horizon Canopy
+1 [THB:251] Island
+3 [XLN:110] Kitesail Freebooter
+4 [KTK:184] Mantis Rider
+4 [ARB:8] Meddling Mage
+1 [M19:29] Militia Bugler
+4 [CON:87] Noble Hierarch
+4 [M12:72] Phantasmal Image
+1 [THB:250] Plains
+4 [OGW:157] Reflector Mage
+4 [SOI:43] Thalia's Lieutenant
+3 [DKA:24] Thalia, Guardian of Thraben
+4 [XLN:258] Unclaimed Territory
+1 [MH1:249] Waterlogged Grove
+SB: 4 [5DN:3] Auriok Champion
+SB: 2 [MH1:158] Collector Ouphe
+SB: 3 [DOM:213] Damping Sphere
+SB: 2 [NPH:57] Dismember
+SB: 1 [LRW:248] Gaddock Teeg
+SB: 2 [GRN:183] Knight of Autumn
+SB: 1 [MBS:14] Mirran Crusader
+LAYOUT MAIN:(1,1)(NONE,false,50)|([DST:91],[DST:91],[DST:91],[DST:91],[CON:141],[CON:141],[CON:141],[CON:141],[AVR:226],[AVR:226],[AVR:226],[AVR:226],[ISD:6],[ISD:6],[ISD:6],[ISD:6],[RNA:165],[RNA:165],[FUT:177],[FUT:177],[FUT:177],[FUT:177],[THB:251],[XLN:110],[XLN:110],[XLN:110],[KTK:184],[KTK:184],[KTK:184],[KTK:184],[ARB:8],[ARB:8],[ARB:8],[ARB:8],[M19:29],[CON:87],[CON:87],[CON:87],[CON:87],[M12:72],[M12:72],[M12:72],[M12:72],[THB:250],[OGW:157],[OGW:157],[OGW:157],[OGW:157],[SOI:43],[SOI:43],[SOI:43],[SOI:43],[DKA:24],[DKA:24],[DKA:24],[XLN:258],[XLN:258],[XLN:258],[XLN:258],[MH1:249])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([5DN:3],[5DN:3],[5DN:3],[5DN:3],[MH1:158],[MH1:158],[DOM:213],[DOM:213],[DOM:213],[NPH:57],[NPH:57],[LRW:248],[GRN:183],[GRN:183],[MBS:14])

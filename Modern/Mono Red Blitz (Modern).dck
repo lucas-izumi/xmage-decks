@@ -1,0 +1,23 @@
+4 [EMN:118] Bedlam Reveler
+2 [ZEN:119] Burst Lightning
+4 [M19:133] Crash Through
+3 [MH1:238] Fiery Islet
+1 [ROE:146] Forked Bolt
+3 [ROE:153] Kiln Fiend
+4 [JUD:94] Lava Dart
+4 [CHK:178] Lava Spike
+4 [RNA:107] Light Up the Stage
+4 [M11:149] Lightning Bolt
+4 [SHM:211] Manamorphose
+4 [KTK:118] Monastery Swiftspear
+13 [THB:253] Mountain
+4 [AKH:148] Soul-Scar Mage
+2 [MH1:247] Sunbaked Canyon
+SB: 3 [HOU:83] Abrade
+SB: 2 [9ED:176] Blood Moon
+SB: 2 [NPH:57] Dismember
+SB: 3 [M12:206] Dragon's Claw
+SB: 2 [NPH:153] Shrine of Burning Rage
+SB: 3 [M15:237] Tormod's Crypt
+LAYOUT MAIN:(1,1)(NONE,false,50)|([EMN:118],[EMN:118],[EMN:118],[EMN:118],[ZEN:119],[ZEN:119],[M19:133],[M19:133],[M19:133],[M19:133],[MH1:238],[MH1:238],[MH1:238],[ROE:146],[ROE:153],[ROE:153],[ROE:153],[JUD:94],[JUD:94],[JUD:94],[JUD:94],[CHK:178],[CHK:178],[CHK:178],[CHK:178],[RNA:107],[RNA:107],[RNA:107],[RNA:107],[M11:149],[M11:149],[M11:149],[M11:149],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[THB:253],[AKH:148],[AKH:148],[AKH:148],[AKH:148],[MH1:247],[MH1:247])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([HOU:83],[HOU:83],[HOU:83],[9ED:176],[9ED:176],[NPH:57],[NPH:57],[M12:206],[M12:206],[M12:206],[NPH:153],[NPH:153],[M15:237],[M15:237],[M15:237])

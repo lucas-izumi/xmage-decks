@@ -1,0 +1,35 @@
+4 [MH1:220] Arcum's Astrolabe
+1 [NPH:130] Batterskull
+2 [RNA:246] Breeding Pool
+2 [LRW:56] Cryptic Command
+1 [THB:14] Elspeth, Sun's Nemesis
+3 [THB:242] Field of Ruin
+4 [KTK:233] Flooded Strand
+3 [MH1:52] Force of Negation
+1 [RNA:251] Hallowed Fountain
+4 [MH1:203] Ice-Fang Coatl
+2 [WWK:31] Jace, the Mind Sculptor
+2 [M12:63] Mana Leak
+4 [ZEN:220] Misty Rainforest
+2 [ELD:247] Mystic Sanctuary
+4 [CON:15] Path to Exile
+2 [ISD:78] Snapcaster Mage
+1 [CSP:155] Snow-Covered Forest
+5 [CSP:152] Snow-Covered Island
+1 [CSP:151] Snow-Covered Plains
+4 [WWK:20] Stoneforge Mystic
+2 [RTR:201] Supreme Verdict
+1 [MBS:138] Sword of Feast and Famine
+2 [WAR:221] Teferi, Time Raveler
+1 [GRN:258] Temple Garden
+2 [THB:229] Uro, Titan of Nature's Wrath
+SB: 2 [M20:42] Aether Gust
+SB: 2 [WAR:228] Ashiok, Dream Render
+SB: 2 [DOM:213] Damping Sphere
+SB: 1 [GRN:37] Disdainful Stroke
+SB: 2 [WWK:11] Kor Firewalker
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [RTR:18] Rest in Peace
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,1)(NONE,false,50)|([MH1:220],[MH1:220],[MH1:220],[MH1:220],[NPH:130],[RNA:246],[RNA:246],[LRW:56],[LRW:56],[THB:14],[THB:242],[THB:242],[THB:242],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[MH1:52],[MH1:52],[MH1:52],[RNA:251],[MH1:203],[MH1:203],[MH1:203],[MH1:203],[WWK:31],[WWK:31],[M12:63],[M12:63],[ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[ELD:247],[ELD:247],[CON:15],[CON:15],[CON:15],[CON:15],[ISD:78],[ISD:78],[CSP:155],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:152],[CSP:151],[WWK:20],[WWK:20],[WWK:20],[WWK:20],[RTR:201],[RTR:201],[MBS:138],[WAR:221],[WAR:221],[GRN:258],[THB:229],[THB:229])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M20:42],[M20:42],[WAR:228],[WAR:228],[DOM:213],[DOM:213],[GRN:37],[WWK:11],[WWK:11],[ELD:58],[ELD:58],[RTR:18],[RTR:18],[M20:198],[M20:198])

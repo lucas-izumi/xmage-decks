@@ -1,0 +1,37 @@
+2 [WWK:133] Celestial Colonnade
+3 [LRW:56] Cryptic Command
+1 [RTR:155] Detention Sphere
+1 [WAR:193] Dovin's Veto
+4 [THB:242] Field of Ruin
+4 [KTK:233] Flooded Strand
+3 [MH1:52] Force of Negation
+2 [RNA:251] Hallowed Fountain
+6 [THB:251] Island
+2 [WWK:31] Jace, the Mind Sculptor
+1 [FUT:52] Logic Knot
+2 [M12:63] Mana Leak
+3 [ELD:247] Mystic Sanctuary
+2 [WAR:61] Narset, Parter of Veils
+4 [ELD:59] Opt
+4 [CON:15] Path to Exile
+2 [THB:250] Plains
+1 [KTK:239] Polluted Delta
+1 [ZEN:223] Scalding Tarn
+3 [ISD:78] Snapcaster Mage
+2 [RTR:201] Supreme Verdict
+2 [DOM:207] Teferi, Hero of Dominaria
+2 [WAR:221] Teferi, Time Raveler
+1 [M12:40] Timely Reinforcements
+1 [MOR:55] Vendilion Clique
+1 [MH1:37] Winds of Abandon
+SB: 2 [M20:42] Aether Gust
+SB: 2 [WAR:228] Ashiok, Dream Render
+SB: 2 [M12:11] Celestial Purge
+SB: 1 [AKH:14] Gideon of the Trials
+SB: 2 [FRF:20] Monastery Mentor
+SB: 2 [RTR:18] Rest in Peace
+SB: 1 [ISD:36] Stony Silence
+SB: 1 [RTR:201] Supreme Verdict
+SB: 2 [M12:40] Timely Reinforcements
+LAYOUT MAIN:(1,1)(NONE,false,50)|([WWK:133],[WWK:133],[LRW:56],[LRW:56],[LRW:56],[RTR:155],[WAR:193],[THB:242],[THB:242],[THB:242],[THB:242],[KTK:233],[KTK:233],[KTK:233],[KTK:233],[MH1:52],[MH1:52],[MH1:52],[RNA:251],[RNA:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[WWK:31],[WWK:31],[FUT:52],[M12:63],[M12:63],[ELD:247],[ELD:247],[ELD:247],[WAR:61],[WAR:61],[ELD:59],[ELD:59],[ELD:59],[ELD:59],[CON:15],[CON:15],[CON:15],[CON:15],[THB:250],[THB:250],[KTK:239],[ZEN:223],[ISD:78],[ISD:78],[ISD:78],[RTR:201],[RTR:201],[DOM:207],[DOM:207],[WAR:221],[WAR:221],[M12:40],[MOR:55],[MH1:37])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M20:42],[M20:42],[WAR:228],[WAR:228],[M12:11],[M12:11],[AKH:14],[FRF:20],[FRF:20],[RTR:18],[RTR:18],[ISD:36],[RTR:201],[M12:40],[M12:40])

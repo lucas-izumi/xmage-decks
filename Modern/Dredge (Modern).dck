@@ -1,0 +1,32 @@
+1 [WAR:244] Blast Zone
+2 [RNA:245] Blood Crypt
+4 [ZEN:83] Bloodghast
+3 [KTK:230] Bloodstained Mire
+4 [KLD:109] Cathartic Reunion
+1 [TSP:151] Conflagrate
+4 [GRN:66] Creeping Chill
+1 [FUT:169] Dakmor Salvage
+2 [ONS:317] Forgotten Cave
+1 [TSB:119] Gemstone Mine
+2 [RAV:87] Golgari Thug
+4 [RAV:172] Life from the Loam
+3 [ELD:131] Merchant of the Vale
+2 [THB:253] Mountain
+4 [GRN:47] Narcomoeba
+2 [THB:147] Ox of Agonas
+4 [SOI:249] Prized Amalgam
+1 [ZEN:223] Scalding Tarn
+4 [MBS:130] Shriekhorn
+4 [RAV:107] Stinkweed Imp
+3 [RNA:259] Stomping Ground
+4 [KTK:249] Wooded Foothills
+SB: 1 [ISD:127] Ancient Grudge
+SB: 1 [TSP:151] Conflagrate
+SB: 1 [RAV:82] Darkblast
+SB: 4 [M20:107] Leyline of the Void
+SB: 2 [SOI:170] Lightning Axe
+SB: 2 [FUT:101] Magus of the Moon
+SB: 3 [WWK:108] Nature's Claim
+SB: 1 [MH1:146] Shenanigans
+LAYOUT MAIN:(1,1)(NONE,false,50)|([WAR:244],[RNA:245],[RNA:245],[ZEN:83],[ZEN:83],[ZEN:83],[ZEN:83],[KTK:230],[KTK:230],[KTK:230],[KLD:109],[KLD:109],[KLD:109],[KLD:109],[TSP:151],[GRN:66],[GRN:66],[GRN:66],[GRN:66],[FUT:169],[ONS:317],[ONS:317],[TSB:119],[RAV:87],[RAV:87],[RAV:172],[RAV:172],[RAV:172],[RAV:172],[ELD:131],[ELD:131],[ELD:131],[THB:253],[THB:253],[GRN:47],[GRN:47],[GRN:47],[GRN:47],[THB:147],[THB:147],[SOI:249],[SOI:249],[SOI:249],[SOI:249],[ZEN:223],[MBS:130],[MBS:130],[MBS:130],[MBS:130],[RAV:107],[RAV:107],[RAV:107],[RAV:107],[RNA:259],[RNA:259],[RNA:259],[KTK:249],[KTK:249],[KTK:249],[KTK:249])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ISD:127],[TSP:151],[RAV:82],[M20:107],[M20:107],[M20:107],[M20:107],[SOI:170],[SOI:170],[FUT:101],[FUT:101],[WWK:108],[WWK:108],[WWK:108],[MH1:146])

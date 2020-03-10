@@ -1,0 +1,33 @@
+4 [ALA:63] Ad Nauseam
+4 [TSP:3] Angel's Grace
+4 [8ED:322] City of Brass
+2 [SOM:226] Darkslick Shores
+4 [TSB:119] Gemstone Mine
+1 [THB:251] Island
+1 [CSP:89] Lightning Storm
+4 [TSP:259] Lotus Bloom
+3 [FUT:42] Pact of Negation
+1 [CHK:78] Peer Through Depths
+4 [5DN:143] Pentad Prism
+3 [NPH:18] Phyrexian Unlife
+1 [THB:250] Plains
+2 [SOM:229] Seachrome Coast
+4 [5DN:36] Serum Visions
+1 [MH1:246] Silent Clearing
+4 [PLC:122] Simian Spirit Guide
+4 [MRD:78] Spoils of the Vault
+2 [THB:245] Temple of Deceit
+2 [THB:246] Temple of Enlightenment
+4 [THB:308] Thassa's Oracle
+1 [M15:248] Urborg, Tomb of Yawgmoth
+SB: 2 [NPH:57] Dismember
+SB: 1 [DST:21] Echoing Truth
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [FUT:42] Pact of Negation
+SB: 2 [CON:15] Path to Exile
+SB: 1 [OGW:63] Sphinx of the Final Word
+SB: 2 [THS:107] Thoughtseize
+SB: 4 [M20:198] Veil of Summer
+SB: 1 [DGM:135] Wear // Tear
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ALA:63],[ALA:63],[ALA:63],[ALA:63],[TSP:3],[TSP:3],[TSP:3],[TSP:3],[8ED:322],[8ED:322],[8ED:322],[8ED:322],[SOM:226],[SOM:226],[TSB:119],[TSB:119],[TSB:119],[TSB:119],[THB:251],[CSP:89],[TSP:259],[TSP:259],[TSP:259],[TSP:259],[FUT:42],[FUT:42],[FUT:42],[CHK:78],[5DN:143],[5DN:143],[5DN:143],[5DN:143],[NPH:18],[NPH:18],[NPH:18],[THB:250],[SOM:229],[SOM:229],[5DN:36],[5DN:36],[5DN:36],[5DN:36],[MH1:246],[PLC:122],[PLC:122],[PLC:122],[PLC:122],[MRD:78],[MRD:78],[MRD:78],[MRD:78],[THB:245],[THB:245],[THB:246],[THB:246],[THB:308],[THB:308],[THB:308],[THB:308],[M15:248])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NPH:57],[NPH:57],[DST:21],[5DN:118],[FUT:42],[CON:15],[CON:15],[OGW:63],[THS:107],[THS:107],[M20:198],[M20:198],[M20:198],[M20:198],[DGM:135])

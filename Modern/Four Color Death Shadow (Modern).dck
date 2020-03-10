@@ -1,0 +1,35 @@
+1 [RTR:141] Abrupt Decay
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [RNA:246] Breeding Pool
+4 [WWK:57] Death's Shadow
+2 [NPH:57] Dismember
+4 [AER:57] Fatal Push
+3 [ROE:115] Inquisition of Kozilek
+4 [CSP:138] Mishra's Bauble
+4 [MH1:243] Nurturing Peatland
+3 [ELD:169] Once Upon a Time
+1 [GRN:253] Overgrown Tomb
+4 [KTK:239] Polluted Delta
+4 [FUT:90] Street Wraith
+4 [KTK:56] Stubborn Denial
+1 [THB:252] Swamp
+4 [FUT:153] Tarmogoyf
+2 [FRF:116] Temur Battle Rage
+4 [THS:107] Thoughtseize
+3 [SOI:234] Traverse the Ulvenwald
+4 [ZEN:229] Verdant Catacombs
+1 [GRN:259] Watery Grave
+SB: 1 [WAR:228] Ashiok, Dream Render
+SB: 1 [GRN:152] Assassin's Trophy
+SB: 2 [EMN:85] Collective Brutality
+SB: 2 [GRN:37] Disdainful Stroke
+SB: 1 [ELD:188] Drown in the Loch
+SB: 1 [DTK:224] Kolaghan's Command
+SB: 1 [M11:149] Lightning Bolt
+SB: 2 [ELD:58] Mystical Dispute
+SB: 1 [MH1:100] Plague Engineer
+SB: 1 [ELD:199] The Royal Scions
+SB: 2 [M20:198] Veil of Summer
+LAYOUT MAIN:(1,1)(NONE,false,50)|([RTR:141],[RNA:245],[KTK:230],[RNA:246],[WWK:57],[WWK:57],[WWK:57],[WWK:57],[NPH:57],[NPH:57],[AER:57],[AER:57],[AER:57],[AER:57],[ROE:115],[ROE:115],[ROE:115],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[MH1:243],[MH1:243],[MH1:243],[MH1:243],[ELD:169],[ELD:169],[ELD:169],[GRN:253],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[FUT:90],[FUT:90],[FUT:90],[FUT:90],[KTK:56],[KTK:56],[KTK:56],[KTK:56],[THB:252],[FUT:153],[FUT:153],[FUT:153],[FUT:153],[FRF:116],[FRF:116],[THS:107],[THS:107],[THS:107],[THS:107],[SOI:234],[SOI:234],[SOI:234],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[GRN:259])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WAR:228],[GRN:152],[EMN:85],[EMN:85],[GRN:37],[GRN:37],[ELD:188],[DTK:224],[M11:149],[ELD:58],[ELD:58],[MH1:100],[ELD:199],[M20:198],[M20:198])
